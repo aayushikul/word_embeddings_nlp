@@ -1,0 +1,3 @@
+[submodule "src/node"]
+	path = src/node
+	url = https://github.com/aditya-grover/node2vec.git
